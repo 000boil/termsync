@@ -1,6 +1,6 @@
 # termsync
 
-Got your terminal dialed in on one Mac and want the same look on another? This copies it over.
+Got the perfect terminal setup on one Mac and want the same look on another? This copies it over.
 
 ![receiver screen](screenshot.png)
 
